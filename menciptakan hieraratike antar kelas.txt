@@ -1,0 +1,4 @@
+menciptakan hieraratike antar kelas 
+chilede class mewarisi semua properti dan method dari parest nya (yang visibel )
+chile class memperluas (XEtandcend)
+

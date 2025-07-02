@@ -1,0 +1,13 @@
+property
+
+mepersentasi kan data dari keadaan suatu objek (member variable ) varibael di dalam kelas di sebut Property
+
+cukup tulis $ di depan nama variabel dengan keyward visibility 
+
+Mepresentasi kan suatu perilaku dari sebuah Object
+fuction yang ada di dalam object
+aturan nya sama mengguakan visibility
+
+
+4
+

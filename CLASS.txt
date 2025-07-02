@@ -1,0 +1,31 @@
+CLASS
+
+claas di definisikan seperri sebuah blueprint yang menyimpan berbagai objek  
+
+class mendefinislam object nya
+class bisa menyimpan data dan perlikaku yang di sebut dengan Property dam method
+
+. di awali dengan menlulis keyword (" class "), di ikuti nama dan di batasi dengan(" {} ") untuk meyimpan property dan method
+
+
+<!-- class -->             
+<?php
+class Coba {
+    public $a; // property a
+
+    //method constructor
+    public function b() {
+        echo "ini method b <br>";
+    }
+}
+
+=========================================================================================================================================================================
+
+OBJECT
+
+instance Yang di definisikan oleh class
+banyak object dpaat menggunakan satu class 
+object dibuat dengan menggunakan keyword (" new ")
+
+apa itu OOP object oriented origraming 
+

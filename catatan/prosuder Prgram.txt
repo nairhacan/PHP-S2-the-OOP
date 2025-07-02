@@ -1,0 +1,62 @@
+prosuder Prgram
+
+>intruksi dilakukan Langkah demi Langkah
+>memecah Program menjadi bagian bagian kecil
+>disebut Prosedur subroutine atau fuction
+> linerar / Top-to-bottom
+>fortran,ALGOL,COBOL,Pascal,C,PHP,JS
+
+alasan kenapa procedural?
+.to the point
+.Simpicity & kemudahan implementasi )untuk Compiler $ interpeler)
+. mudah diTelusuri
+.membutuhkan elebih sedkit memomry (dibanding dengan OOP)
+
+
+Object Orianted
+
+.Menyusun semua kode program dan struktur data sebagai objek
+.objek adalah unit dasar dari program
+.objek menyimpan data dan perlikau dari program (property dan method)
+.Objek Bisa saling berinteraksi
+.Bahasa nya Java, Ruby, Python, C++, JS,PHP5
+
+
+
+kelebihan nya
+.mempermudah repsentasi di dunia nya(mendefinisikan)
+.Enkaspusulasi & Abstraksi data
+.reusability (program ulang)
+skalabilitas & ekstabilitas  (mempermudah proyek besar)
+.kemudahan pngelolaan
+.kolaborasi
+.digunakan oleh framework PHP
+
+
+procedural Vs Object Orianted?
+
+
+konsep oop pada php 
+
+>===Basic (konsep dasar)
+.class & objct
+.property 7 method
+.constructor
+.obcecj type
+.inheritance (pewarisan prilaku)
+Visibility / access Modifer 
+.setter & Getter 
+.Static Method
+
+>===Advance (projek besar/farmework)
+Abstral & interface
+.interceptor
+.object coloning (membawa pelikau yang beda )
+.callbacks $ closure
+.nameSpaces & autoloading
+. DLL ...............
+
+
+
+ 
+
